@@ -1,2 +1,1 @@
-# kotsu-studio-SFX
-Public media assets for Kotsu Studio Framer templates.
+Public media assets for Kotsu Studio's website.
